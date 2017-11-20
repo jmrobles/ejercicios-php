@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Ejercicio 1</title>
+		<title>Ejercicio 1 - Nombre completo</title>
 		<meta charset="utf-8">
 	</head>
 	<body>
