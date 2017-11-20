@@ -38,18 +38,7 @@
 				if (!empty($_POST["nombre"]) && !empty($_POST["apellido1"]) && !empty($_POST["apellido2"])) {
 					echo "<p><b>" . $_POST["nombre"] . "</b>, " .$_POST["apellido1"] . " ". $_POST["apellido2"]. "</p>";
 				}
-
-
-
-
-
-
-
-
-
 			}
-
-
 		?>
 	</body>
 </html>
